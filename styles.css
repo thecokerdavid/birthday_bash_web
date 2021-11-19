@@ -1,6 +1,8 @@
 html, body {
     height: 100%;
     margin: 0;
+    background-image: url('https://i.imgur.com/QxmpMd5.gif');
+    background-size: cover;
     background-color: black;
     font-family: Helvetica;
   }
@@ -11,5 +13,5 @@ html, body {
     margin: auto;
     width: 50%;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 200px;
   }
