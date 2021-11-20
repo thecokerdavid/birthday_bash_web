@@ -2,7 +2,7 @@ html, body {
     height: 100%;
     margin: 0;
     background-image: url('https://i.imgur.com/QxmpMd5.gif');
-    background-size: contain;
+    background-size: cover;
     background-color: black;
     font-family: Helvetica;
   }
